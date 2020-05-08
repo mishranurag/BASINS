@@ -227,3 +227,10 @@ USGS.Baseflow/*
 BinDS/*
 BASINSDS/bin/*
 BASINSDS/obj/*
+*.CopyComplete
+atcWASPInpWriter/obj/x86/Debug/atcWASPInpWriter-D4EM10.vbproj.FileListAbsolute.txt
+atcWASPInpWriter/obj/x86/Debug/atcWASPInpWriter.xml
+D4EM/bin/x64Debug/atcWASPInpWriter.xml
+D4EM/bin/x64Debug/MapWinUtility.xml
+HSPEXP/.vs/HSPEXP+-D4EM10_common/v16/Server/sqlite3/db.lock
+HSPEXP/.vs/HSPEXP+-D4EM10_common/v16/Server/sqlite3/storage.ide
